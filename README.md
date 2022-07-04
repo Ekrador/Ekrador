@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Ekrador
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning programming
